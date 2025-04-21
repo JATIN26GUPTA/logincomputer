@@ -58,10 +58,10 @@ export function Footer() {
           <div className="space-y-3">
             <h3 className="text-sm font-medium">Contact Us</h3>
             <div className="flex flex-col space-y-2 text-sm text-muted-foreground">
-              <p>123 Training Street</p>
-              <p>Tech City, TC 12345</p>
-              <p>Phone: (123) 456-7890</p>
-              <p>Email: info@logincomputer.com</p>
+              <p>Login Computer, 6-C-4,</p>
+              <p> Mahaveer Nagar Extension, Kota,(Raj.) 324009</p>
+              <p>Phone: (91)9887782717</p>
+              <p>Email: jatin26gupta@gmail.com</p>
             </div>
           </div>
         </div>
