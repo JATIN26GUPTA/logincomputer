@@ -33,7 +33,7 @@ export default function Home() {
               </div>
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
                 Unlock Your Potential with{" "}
-                <span className="text-primary">Login Computer</span>
+                <span className="text-primary">Login Classes</span>
               </h1>
               <p className="text-muted-foreground md:text-xl">
                 Professional training in Java, Python, C/C++, Web Development,
