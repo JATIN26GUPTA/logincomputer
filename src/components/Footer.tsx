@@ -94,11 +94,7 @@ export function Footer() {
             <div className="flex flex-col space-y-2 text-sm text-muted-foreground">
               <p>Login Computer, 6-C-4,</p>
               <p> Mahaveer Nagar Extension, Kota,(Raj.) 324009</p>
-<<<<<<< HEAD
               <p>Phone: (91) 9887782717</p>
-=======
-              <p>Phone: (91)9887782717</p>
->>>>>>> refs/remotes/origin/main
               <p>Email: jatin26gupta@gmail.com</p>
             </div>
           </div>
